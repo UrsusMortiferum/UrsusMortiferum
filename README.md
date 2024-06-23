@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a:
+- Data Guy
+- Developer #automate_mundane_when_it_make_sense
+
+Currently working full-time as Data Analyst/Engineer.
+
+- 🌱 I’m currently learning how to type from scratch on Elora > https://splitkb.com/products/elora
+
 <!--
 **UrsusMortiferum/UrsusMortiferum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
